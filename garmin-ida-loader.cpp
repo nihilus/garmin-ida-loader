@@ -1,6 +1,6 @@
 #include <windows.h>
 #include <vector>
-#include <..\ldr\idaldr.h>
+#include "../../ldr/idaldr.h"
 
 using namespace std;
 typedef vector<unsigned char> CHARS;
