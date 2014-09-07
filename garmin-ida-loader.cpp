@@ -1,5 +1,6 @@
 #include <windows.h>
 #include <vector>
+#include <ida.hpp>
 #include "../../ldr/idaldr.h"
 
 using namespace std;
